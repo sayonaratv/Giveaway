@@ -1,6 +1,6 @@
 {
-  "token": "put-token-here", 
-  "prefix": "prefix",
+  "token": "", 
+  "prefix": "",
   "support": "https://discord.gg/zM6ZN9UfRs",
   "everyoneMention": false,
   "hostedBy": true
